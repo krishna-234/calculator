@@ -1,0 +1,32 @@
+.container
+{
+    
+     text-align: center;
+     margin-top: 20px;
+}
+table{
+    margin:auto;
+}
+input{
+    font-size:33px;
+    width: auto;
+    border :2px solid black; 
+    border-radius: 18px;
+}
+button{
+    font-size: 25px;
+    background-color:yellow; 
+    height: 40px;
+    width: 80px;
+   border-radius: 10px;
+}
+.cal
+{
+    border:2px solid pink;
+    background-color: lightcoral;
+    padding:10px;
+    border-radius: 10px;
+     display:inline-block;
+}
+
+  
